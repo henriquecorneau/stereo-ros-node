@@ -1,0 +1,37 @@
+[0.595s] Invoking command in '/home/henrique/ws_visao/stereo-cam/src/stereo_cam': PYTHONPATH=/home/henrique/ws_visao/stereo-cam/build/stereo_cam/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/henrique/ws_visao/stereo-cam/install/stereo_cam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/stereo_cam build --build-base /home/henrique/ws_visao/stereo-cam/build/stereo_cam/build install --record /home/henrique/ws_visao/stereo-cam/build/stereo_cam/install.log --single-version-externally-managed install_data
+[0.783s] running egg_info
+[0.784s] creating ../../build/stereo_cam/stereo_cam.egg-info
+[0.784s] writing ../../build/stereo_cam/stereo_cam.egg-info/PKG-INFO
+[0.784s] writing dependency_links to ../../build/stereo_cam/stereo_cam.egg-info/dependency_links.txt
+[0.784s] writing entry points to ../../build/stereo_cam/stereo_cam.egg-info/entry_points.txt
+[0.784s] writing requirements to ../../build/stereo_cam/stereo_cam.egg-info/requires.txt
+[0.784s] writing top-level names to ../../build/stereo_cam/stereo_cam.egg-info/top_level.txt
+[0.784s] writing manifest file '../../build/stereo_cam/stereo_cam.egg-info/SOURCES.txt'
+[0.786s] reading manifest file '../../build/stereo_cam/stereo_cam.egg-info/SOURCES.txt'
+[0.786s] writing manifest file '../../build/stereo_cam/stereo_cam.egg-info/SOURCES.txt'
+[0.786s] running build
+[0.786s] running build_py
+[0.786s] creating /home/henrique/ws_visao/stereo-cam/build/stereo_cam/build
+[0.786s] creating /home/henrique/ws_visao/stereo-cam/build/stereo_cam/build/lib
+[0.786s] creating /home/henrique/ws_visao/stereo-cam/build/stereo_cam/build/lib/stereo_cam
+[0.786s] copying stereo_cam/stereo_cam.py -> /home/henrique/ws_visao/stereo-cam/build/stereo_cam/build/lib/stereo_cam
+[0.786s] copying stereo_cam/__init__.py -> /home/henrique/ws_visao/stereo-cam/build/stereo_cam/build/lib/stereo_cam
+[0.786s] running install
+[0.787s] running install_lib
+[0.787s] creating /home/henrique/ws_visao/stereo-cam/install/stereo_cam/lib/python3.10/site-packages/stereo_cam
+[0.787s] copying /home/henrique/ws_visao/stereo-cam/build/stereo_cam/build/lib/stereo_cam/stereo_cam.py -> /home/henrique/ws_visao/stereo-cam/install/stereo_cam/lib/python3.10/site-packages/stereo_cam
+[0.787s] copying /home/henrique/ws_visao/stereo-cam/build/stereo_cam/build/lib/stereo_cam/__init__.py -> /home/henrique/ws_visao/stereo-cam/install/stereo_cam/lib/python3.10/site-packages/stereo_cam
+[0.788s] byte-compiling /home/henrique/ws_visao/stereo-cam/install/stereo_cam/lib/python3.10/site-packages/stereo_cam/stereo_cam.py to stereo_cam.cpython-310.pyc
+[0.788s] byte-compiling /home/henrique/ws_visao/stereo-cam/install/stereo_cam/lib/python3.10/site-packages/stereo_cam/__init__.py to __init__.cpython-310.pyc
+[0.788s] running install_data
+[0.788s] creating /home/henrique/ws_visao/stereo-cam/install/stereo_cam/share/ament_index
+[0.789s] creating /home/henrique/ws_visao/stereo-cam/install/stereo_cam/share/ament_index/resource_index
+[0.789s] creating /home/henrique/ws_visao/stereo-cam/install/stereo_cam/share/ament_index/resource_index/packages
+[0.789s] copying resource/stereo_cam -> /home/henrique/ws_visao/stereo-cam/install/stereo_cam/share/ament_index/resource_index/packages
+[0.789s] copying package.xml -> /home/henrique/ws_visao/stereo-cam/install/stereo_cam/share/stereo_cam
+[0.789s] running install_egg_info
+[0.791s] Copying ../../build/stereo_cam/stereo_cam.egg-info to /home/henrique/ws_visao/stereo-cam/install/stereo_cam/lib/python3.10/site-packages/stereo_cam-0.0.0-py3.10.egg-info
+[0.791s] running install_scripts
+[0.805s] Installing stereo_camera_node script to /home/henrique/ws_visao/stereo-cam/install/stereo_cam/lib/stereo_cam
+[0.805s] writing list of installed files to '/home/henrique/ws_visao/stereo-cam/build/stereo_cam/install.log'
+[0.823s] Invoked command in '/home/henrique/ws_visao/stereo-cam/src/stereo_cam' returned '0': PYTHONPATH=/home/henrique/ws_visao/stereo-cam/build/stereo_cam/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/henrique/ws_visao/stereo-cam/install/stereo_cam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/stereo_cam build --build-base /home/henrique/ws_visao/stereo-cam/build/stereo_cam/build install --record /home/henrique/ws_visao/stereo-cam/build/stereo_cam/install.log --single-version-externally-managed install_data
